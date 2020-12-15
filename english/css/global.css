@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Ubuntu-Bold";
-  src: url(https://fenixalliance.github.io/B2C_Pages/spanish/fonts/Ubuntu-Bold.ttf) format("truetype");
+  src: url("https://fenixalliance.github.io/B2C_Pages/spanish/fonts/Ubuntu-Bold.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Ubuntu-Regular";
-  src: url(https://fenixalliance.github.io/B2C_Pages/spanish/fonts/Ubuntu-Regular.ttf) format("truetype");
+  src: url("https://fenixalliance.github.io/B2C_Pages/spanish/fonts/Ubuntu-Regular.ttf") format("truetype");
 }
 
 html {
