@@ -14,7 +14,7 @@ html {
 
 body {
   background-attachment: fixed;
-  background-image: url("../images/background.jpg");
+  background-image: url("https://fenixalliance.github.io/B2C_Pages/spanish/images/background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -60,7 +60,7 @@ label,
 
 #AdfsExchange {
   background-color: #28b1e6;
-  background-image: url("../images/activedirectory.png");
+  background-image: url("https://fenixalliance.github.io/B2C_Pages/spanish/images/activedirectory.png");
   background-repeat: no-repeat;
   background-size: 50px;
   margin: 10px 0;
@@ -104,7 +104,7 @@ label,
 
 #AmazonExchange {
   background-color: #ff9900;
-  background-image: url("../images/amazon.png");
+  background-image: url("https://fenixalliance.github.io/B2C_Pages/spanish/images/amazon.png");
   background-repeat: no-repeat;
   background-size: 50px;
   margin: 10px 0;
@@ -119,7 +119,7 @@ label,
 
 #FacebookExchange {
   background-color: #3b5595;
-  background-image: url("../images/facebook.png");
+  background-image: url("https://fenixalliance.github.io/B2C_Pages/spanish/images/facebook.png");
   background-repeat: no-repeat;
   background-size: 50px;
   padding-left: 55px;
@@ -133,7 +133,7 @@ label,
 
 #GoogleExchange {
   background-color: #c64a29;
-  background-image: url("../images/googleplus.png");
+  background-image: url("https://fenixalliance.github.io/B2C_Pages/spanish/images/googleplus.png");
   background-repeat: no-repeat;
   background-size: 50px;
   margin: 10px 0;
@@ -148,7 +148,7 @@ label,
 
 #GitHubExchange {
   background-color: #333;
-  background-image: url("../images/github.png");
+  background-image: url("https://fenixalliance.github.io/B2C_Pages/spanish/images/github.png");
   background-repeat: no-repeat;
   background-size: 50px;
   margin: 10px 0;
@@ -163,7 +163,7 @@ label,
 
 #LinkedInExchange {
   background-color: #0077b5;
-  background-image: url("../images/linkedin.png");
+  background-image: url("https://fenixalliance.github.io/B2C_Pages/spanish/images/linkedin.png");
   background-repeat: no-repeat;
   background-size: 50px;
   margin: 10px 0;
@@ -178,7 +178,7 @@ label,
 
 #TwitterExchange {
   background-color: #1da1f2;
-  background-image: url("../images/twitter.png");
+  background-image: url("https://fenixalliance.github.io/B2C_Pages/spanish/images/twitter.png");
   background-repeat: no-repeat;
   background-size: 50px;
   margin: 10px 0;
@@ -193,7 +193,7 @@ label,
 
 #SignInWithLogonNameExchange {
   background-color: #0083be;
-  background-image: url("../images/allianceid.png");
+  background-image: url("https://fenixalliance.github.io/B2C_Pages/spanish/images/allianceid.png");
   background-repeat: no-repeat;
   background-size: 50px;
   margin: 10px 0;
@@ -207,7 +207,7 @@ label,
 
 #MicrosoftAccountExchange {
   background-color: #28b1e6;
-  background-image: url("../images/microsoft.png");
+  background-image: url("https://fenixalliance.github.io/B2C_Pages/spanish/images/microsoft.png");
   background-repeat: no-repeat;
   background-size: 50px;
   padding-left: 55px;
@@ -221,7 +221,7 @@ label,
 
 #SignUpWithLogonEmailExchange {
   background-color: #0083be;
-  background-image: url("../images/allianceid.png");
+  background-image: url("https://fenixalliance.github.io/B2C_Pages/spanish/images/allianceid.png");
   background-repeat: no-repeat;
   background-size: 50px;
   color: #fff;
@@ -231,12 +231,12 @@ label,
 }
 
 #SignUpWithLogonEmailExchange:hover {
-  background-image: url("../images/allianceid.png") !important;
+  background-image: url("https://fenixalliance.github.io/B2C_Pages/spanish/images/allianceid.png") !important;
 }
 
 #IdentifyServerExchange {
   background-color: #28b1e6;
-  background-image: url("../images/allianceid.png");
+  background-image: url("https://fenixalliance.github.io/B2C_Pages/spanish/images/allianceid.png");
   background-repeat: no-repeat;
   background-size: 50px;
   margin-top: 10px;
